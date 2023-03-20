@@ -1,8 +1,6 @@
-### Hi there 👋
+                                                     ### Hi there 👋
 
 
-
-**AlockDj/AlockDj** is a ✨ _special_ ✨ 
 
 
 <h1 align="center">Hi 👋, I'm AlockDj</h1>
