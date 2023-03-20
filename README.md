@@ -1,5 +1,5 @@
-                                                 <h1 align="center">Hi 👋, I'm AlockDj</h1>
-                                                 <h3 align="center">A passionate about Ethical Hacking</h3>
+   <h1 align="center">Hi 👋, I'm AlockDj</h1>
+   <h3 align="center">A passionate about Ethical Hacking</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alockdj&label=Profile%20views&color=0e75b6&style=flat" alt="alockdj" /> </p>
 
